@@ -1,0 +1,8 @@
+closeAllConnections()
+rm(list=ls())
+
+library(dplyr)
+
+data <- read.csv("GS_AS2016_DataSet.csv")
+
+aruba <- filter(data, Country=="Aruba (Netherlands)")
