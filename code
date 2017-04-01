@@ -21,3 +21,13 @@ table(aruba$Please.select.which.option.describes.your.current.employment...educa
 
 table(aruba$Would.you.say.the.world.is...,aruba$What.is.your.gender.)
 # again looking at gender differences. 77% of female respondents are optimistic compared to 69% of males.
+
+##Caribbean region 
+Caribbean <- c("Antigua and Barbuda", "Barbados", 
+               "Bermuda", "British Virgin Islands (UK)", "Curacao (Netherlands)",
+               "Dominican Republic", "Jamaica","Saint Vincent and the Grenadines",
+               "Suriname", "Aruba (Netherlands)", "Bahamas", "Cayman Islands (UK)", "Cuba",
+               "Haiti", "Puerto Rico", "Saint Lucia", "Trinidad and Tobago", 
+               "United States Virgin Islands (USA)")
+Caribbean_count <- c(3, 7, 1, 1, 1, 12, 15, 2, 58, 348, 1, 7, 1, 61, 8, 2, 368, 4)
+car <- data.frame(Caribbean,Caribbean_count)
