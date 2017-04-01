@@ -8,3 +8,16 @@ data <- read.csv("GS_AS2016_DataSet.csv")
 
 aruba <- filter(data, Country=="Aruba (Netherlands)")
 str(aruba)
+
+# Aruba discriptives
+table(aruba$What.is.your.gender.)                         # gender
+table(aruba$Please.select.your.age.group.)                # age group
+
+table(aruba$What.is.your.gender., aruba$Finished)         # what's wrong with men?
+# 58% female finish, 
+
+table(aruba$Please.select.which.option.describes.your.current.employment...education.status.) # employment status
+# 89 university students responded. Not bad.
+
+table(aruba$Would.you.say.the.world.is...,aruba$What.is.your.gender.)
+# again looking at gender differences. 77% of female respondents are optimistic compared to 69% of males.
