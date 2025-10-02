@@ -1,6 +1,7 @@
 # GS-shapers-survey-2016
 Globals Shapers annual survey 2016 for Aruba
 
+Survey
 
 Questions of interest to Francielle:
 59 Which stakeholders give you confidence that the above issues can be solved, locally and globally?...-Young Generation-Locally60 Which stakeholders give you confidence that the above issues can be solved, locally and globally?...-Young Generation-Globally61 Which stakeholders give you confidence that the above issues can be solved, locally and globally?...-NGOs / Civil Society-Locally62 Which stakeholders give you confidence that the above issues can be solved, locally and globally?...-NGOs / Civil Society-Globally63 Which stakeholders give you confidence that the above issues can be solved, locally and globally?...-Private Sector-Locally64 Which stakeholders give you confidence that the above issues can be solved, locally and globally?...-Private Sector-Globally65 Which stakeholders give you confidence that the above issues can be solved, locally and globally?...etc
